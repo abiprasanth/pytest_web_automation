@@ -1,4 +1,4 @@
-Project requirments
+Project requirments: 
 Install
 - Python --> https://www.python.org/downloads/
 - Selenium --> pip install selenium
